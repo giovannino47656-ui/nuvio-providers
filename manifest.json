@@ -12,9 +12,7 @@
     "filename": "providers/template.js",
     "enabled": false,
     "logo": "",
-    "contentLanguage": [
-      "en"
-    ],
+    "contentLanguage":["it", "en"] ,
     "formats": [
       "mp4",
       "mkv"
